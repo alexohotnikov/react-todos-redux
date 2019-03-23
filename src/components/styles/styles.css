@@ -1,0 +1,17 @@
+body {
+  position: relative;
+}
+
+.wrap {
+  margin: 0 auto;
+  position: relative;
+  display: inline-block;
+  width: 300px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
+.form-add {
+  position: relative;
+  font-size: 32px;
+}
